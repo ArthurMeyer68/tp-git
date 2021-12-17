@@ -15,7 +15,7 @@ Puis cloner votre fork sur votre PC (avec VSCode).
 
 ## Principe du TP
 
-- [X] Cochez les checkboxes quand demandé et/ou répondez directement dans ce document.
+- [**X**] Cochez les checkboxes quand demandé et/ou répondez directement dans ce document.
 - Suivre les indications sur les commits et autres manipulation.
 
 L'historique git de vos commits sera la preuve que vous avez fait le TP.
